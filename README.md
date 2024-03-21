@@ -1,4 +1,5 @@
 # gupiao
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+股票板块，每日统计信息
+>>>>>>> a50818b801afe8815f0fdc5d5916c11d932b8446
